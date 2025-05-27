@@ -3,32 +3,32 @@
         {
             "name": "openfl",
             "type": "haxelib",
-            "version": null
+            "version": "9.2.2"
         },
         {
             "name": "flixel",
             "type": "haxelib",
-            "version": null
+            "version": "5.2.2"
         },
         {
             "name": "flixel-addons",
             "type": "haxelib",
-            "version": null
+            "version": "2.10.0"
         },
         {
             "name": "flixel-tools",
             "type": "haxelib",
-            "version": null
+            "version": "1.5.1"
         },
         {
             "name": "flixel-ui",
             "type": "haxelib",
-            "version": null
+            "version": "2.5.0"
         },
         {
             "name": "lime",
             "type": "haxelib",
-            "version": "8.1.3"
+            "version": "8.1.1"
         },
         {
             "name": "hxvlc",
@@ -44,10 +44,8 @@
         },
         {
             "name": "flxanimate",
-            "type": "git",
-            "dir": null,
-            "ref": "master",
-            "url": "https://github.com/FixedData/flxanimate"
+            "type": "haxelib",
+            "version": "3.0.4"
         },
         {
             "name": "linc_luajit",
@@ -69,6 +67,11 @@
             "version": null
         },
         {
+            "name": "faxe",
+            "type": "haxelib",
+            "version": null
+        },
+        {
             "name": "tjson",
             "type": "haxelib",
             "version": null
@@ -80,6 +83,11 @@
         },
         {
             "name": "hscript-iris",
+            "type": "haxelib",
+            "version": null
+        },
+        {
+            "name": "away3d",
             "type": "haxelib",
             "version": null
         }
